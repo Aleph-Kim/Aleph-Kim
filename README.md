@@ -6,3 +6,6 @@
 
 <!-- 깃허브 커밋 그래프 -->
 ![Aleph's 깃허브 커밋 그래프](https://github-readme-activity-graph.vercel.app/graph?username=Aleph-Kim&theme=react-dark)
+
+<!-- 백준 티어 -->
+[![Aleph's 백준 티어](http://mazassumnida.wtf/api/v2/generate_badge?boj=dktjej)](https://solved.ac/dktjej)
