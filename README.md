@@ -3,6 +3,3 @@
 
 <!-- 깃허브 스탯 -->
 ![Aleph Kim GitHub stats](https://github-readme-stats.vercel.app/api?username=Aleph-Kim&show_icons=true&theme=shadow_green)
-
-<!-- 하단바 -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&fontSize=40&fontAlignY=60&animation=fadeIn&section=footer&text=감사합니다!)
