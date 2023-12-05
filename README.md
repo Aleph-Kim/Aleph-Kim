@@ -3,3 +3,6 @@
 
 <!-- 깃허브 스탯 | 깃허브 커밋 스택 | 깃허브 언어 사용 순위 -->
 ![Aleph's 깃허브 스택](https://github-readme-stats.vercel.app/api?username=Aleph-Kim&show_icons=true&theme=shadow_green)[![Aleph's 깃허브 커밋 스택](https://streak-stats.demolab.com?user=Aleph-Kim&theme=transparent&locale=ko)](https://git.io/streak-stats)![Aleph's 깃허브 언어 사용 순위](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleph-Kim&layout=compact&theme=dark)
+
+<!-- 깃허브 커밋 그래프 -->
+![Aleph's 깃허브 커밋 그래프](https://github-readme-activity-graph.vercel.app/graph?username=Aleph-Kim&theme=react-dark)
