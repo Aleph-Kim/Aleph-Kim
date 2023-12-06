@@ -8,7 +8,7 @@
 ![Aleph's 깃허브 커밋 그래프](https://github-readme-activity-graph.vercel.app/graph?username=Aleph-Kim&theme=react-dark)
 
 <!-- 백준 티어 -->
-[![Aleph's 백준 티어](http://mazassumnida.wtf/api/v2/generate_badge?boj=dktjej)](https://solved.ac/dktjej)
+[![Aleph's 백준 티어](http://mazassumnida.wtf/api/v2/generate_badge?boj=dktjdej)](https://solved.ac/dktjdej)
 
 <!-- 스킬 -->
 ## 🔨 사용한 언어 🔨
@@ -50,3 +50,6 @@
         <img src="https://img.shields.io/badge/filezilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=white">
     </div>
 </div>
+
+
+<!-- ![Aleph's 깃허브 일일 조회수](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAleph-Kim%2FAleph-Kim&count_bg=%2366D4FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true) -->
