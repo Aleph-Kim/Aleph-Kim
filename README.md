@@ -1,7 +1,7 @@
 <div align="center">
     
 <!-- 상단바 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&fontSize=40&fontAlignY=40&animation=fadeIn&text=김채민의%20개발자의%20Github입니다%20%20😄)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&fontSize=40&fontAlignY=40&animation=fadeIn&text=김채민%20개발자의%20Github입니다%20%20😄)
 
 <!-- 깃허브 일일 조회수 -->
 ![Aleph's 깃허브 일일 조회수](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAleph-Kim%2FAleph-Kim&count_bg=%2366D4FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)
