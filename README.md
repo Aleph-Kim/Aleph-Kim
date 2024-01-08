@@ -10,10 +10,11 @@
 ![Aleph's 깃허브 스택](https://github-readme-stats.vercel.app/api?username=Aleph-Kim&show_icons=true&theme=transparent&locale=kr)
 
 <!-- 깃허브 커밋 스택 -->
-[![Aleph's 깃허브 커밋 스택](https://streak-stats.demolab.com?user=Aleph-Kim&theme=transparent&locale=ko)](https://git.io/streak-stats)
+![Aleph's 깃허브 커밋 스택](https://streak-stats.demolab.com?user=Aleph-Kim&theme=transparent&locale=ko)
 
 <!-- 깃허브 언어 사용 순위 | 백준 티어 -->
-![Aleph's 깃허브 언어 사용 순위](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleph-Kim&layout=compact&theme=dark&hide=java)[![Aleph's 백준 티어](http://mazassumnida.wtf/api/v2/generate_badge?boj=dktjdej)](https://solved.ac/dktjdej)
+![Aleph's 깃허브 언어 사용 순위](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleph-Kim&layout=compact&theme=dark&hide=java)
+[![Aleph's 백준 티어](http://mazassumnida.wtf/api/v2/generate_badge?boj=dktjdej)](https://solved.ac/dktjdej)
 
 <!-- 깃허브 커밋 그래프 -->
 ![Aleph's 깃허브 커밋 그래프](https://github-readme-activity-graph.vercel.app/graph?username=Aleph-Kim&theme=react-dark)
