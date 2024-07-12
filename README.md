@@ -6,15 +6,8 @@
 <!-- 깃허브 일일 조회수 -->
 ![Aleph's 깃허브 일일 조회수](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAleph-Kim%2FAleph-Kim&count_bg=%2366D4FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)
 
-<!-- 깃허브 스탯 -->
-![Aleph's 깃허브 스택](https://github-readme-stats.vercel.app/api?username=Aleph-Kim&show_icons=true&theme=transparent&locale=kr)
-
 <!-- 깃허브 커밋 스택 -->
 ![Aleph's 깃허브 커밋 스택](https://streak-stats.demolab.com?user=Aleph-Kim&theme=transparent&locale=ko)
-
-<!-- 깃허브 언어 사용 순위 | 백준 티어 -->
-![Aleph's 깃허브 언어 사용 순위](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleph-Kim&layout=compact&theme=dark&hide=java)
-[![Aleph's 백준 티어](http://mazassumnida.wtf/api/v2/generate_badge?boj=dktjdej)](https://solved.ac/dktjdej)
 
 <!-- 3D 잔디 -->
 ![My Contribution Calendar](./profile-3d-contrib/profile-night-rainbow.svg)
